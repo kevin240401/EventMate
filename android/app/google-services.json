@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723513203916",
+    "project_id": "em8-app",
+    "storage_bucket": "em8-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723513203916:android:3a56426eb011f2822b3669",
+        "android_client_info": {
+          "package_name": "com.kevinschulz.eventm8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723513203916-ukrfo3bh3hqor51pbaddegukkmvb9r29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6mhtvbcCFuyc1mtVQqHPLfEoFXDg-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723513203916-ukrfo3bh3hqor51pbaddegukkmvb9r29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
